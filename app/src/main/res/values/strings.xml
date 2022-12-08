@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FRUTIAPP</string>
+    <string name="et_nombre">¿Cómo te llamas?</string>
+    <string name="boton">JUGAR</string>
+
+    <string name="et_vidas">Vidas: </string>
+    <string name="jugador_nombre">Jugador:</string>
+    <string name="total_score">Puntuación: 0</string>
+    <string name="boton_sumar">OK</string>
+    <string name="et_respuesta">Respuesta</string>
+    <string name="submenu1">Puntajes</string>
+    <string name="submenu2">Perfil</string>
+
+</resources>
